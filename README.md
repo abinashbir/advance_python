@@ -7,4 +7,5 @@ Here I will study advance python topics like:
     <li>File Handling</li>
     <li>Serialization & Deserialization</li>
     <li>Error Handling</li>
+    <li>Pickling</li>
 </ul>
